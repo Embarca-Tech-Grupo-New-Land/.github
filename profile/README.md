@@ -3,7 +3,7 @@
 <div align="center">
   <p>
     <img src="https://embarcatech.cepedi.org.br/img/logo-embarcatech.png" width="300" alt="Logo do Programa EmbarcaTech">
-    <img src="https://private-user-images.githubusercontent.com/159396360/479581156-91c31407-dda5-4849-937d-9974016fbb65.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MTY0OTksIm5iZiI6MTc1NTYxNjE5OSwicGF0aCI6Ii8xNTkzOTYzNjAvNDc5NTgxMTU2LTkxYzMxNDA3LWRkYTUtNDg0OS05MzdkLTk5NzQwMTZmYmI2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNTA5NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MTM4M2YwYThmNDhhNjE5ZTViM2QxMzdjZDk4MjIzZWU3ZTk4OTcwOWRhOGFlZjkwZGMxMGE2MWI3Y2JiNWQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aqfxHcboizvzt3O9ljoQOKLgjQw7wqpojL7aG0bqqyw" width="300" style="margin-left:80px; margin-bottom:20px" alt="Logo da Toyota Newland">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/159396360/479581156-91c31407-dda5-4849-937d-9974016fbb65.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250820T175922Z&X-Amz-Expires=300&X-Amz-Signature=e0f750bd332190cf83eff1b39c3d19e52104e3caee6daac534b0b7204a8c4c6c&X-Amz-SignedHeaders=host" width="300" style="margin-left:80px; margin-bottom:20px" alt="Logo do Grupo New - Toyota">
   </p>
 </div>
 
